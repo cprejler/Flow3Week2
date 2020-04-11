@@ -1,0 +1,7 @@
+rest/JokeResource.class
+dto/CombinedDTO.class
+jokefetcher/JokeFetcher.class
+utils/HttpUtils.class
+dto/ChuckDTO.class
+dto/DadDTO.class
+rest/ApplicationConfig.class
